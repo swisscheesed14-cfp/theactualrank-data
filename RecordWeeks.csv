@@ -1,0 +1,4 @@
+week,label,model_version,games,closer_model,closer_dk,closer_pct,ats_w,ats_l,ats_p,ats_pct,edge_w,edge_l,edge_p,edge_pct,model_mae,dk_mae
+6,Week 6,Original,58,25,33,43.1,33,25,0,56.9,16,14,0,53.3,13.35,11.44
+7,Week 7,Original,34,15,19,44.1,18,16,0,52.9,9,8,0,52.9,12.44,11.01
+8,Week 8,Original,56,30,26,53.6,32,24,0,57.1,9,11,0,45.0,11.34,10.8

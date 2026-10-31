@@ -1,0 +1,26 @@
+rank,team,record,conference,sos,best_win
+1,Miami,7-0,ACC,0.58,Wake Forest
+2,Kentucky,7-1,SEC,1.45,LSU
+3,UCLA,7-0,Big Ten,0.19,Wisconsin
+4,BYU,6-1,Big 12,0.92,Notre Dame
+5,Utah,7-0,Big 12,-0.28,Houston
+6,Ohio State,6-1,Big Ten,0.65,Indiana
+7,Indiana,7-1,Big Ten,0.79,Northwestern
+8,Georgia,6-1,SEC,0.73,Alabama
+9,Florida,5-2,SEC,1.97,Texas
+10,Texas,5-2,SEC,2.43,Ohio State
+11,Notre Dame,6-1,FBS Independents,0.43,Wisconsin
+12,Wake Forest,6-1,ACC,0.15,Louisville
+13,Missouri,5-2,SEC,0.69,Florida
+14,Texas Tech,6-1,Big 12,-0.09,Houston
+15,UTSA,7-1,American Athletic,-0.18,South Florida
+16,Ole Miss,5-2,SEC,1.29,Missouri
+17,LSU,6-2,SEC,1.69,Louisiana Tech
+18,Northwestern,6-1,Big Ten,-0.36,Penn State
+19,SMU,6-1,ACC,-0.5,Boston College
+20,Tennessee,6-2,SEC,0.65,Alabama
+21,Boise State,6-1,Pac-12,-0.5,Memphis
+22,Alabama,6-2,SEC,1.43,Kentucky
+23,Arizona,6-1,Big 12,-0.49,Cincinnati
+24,James Madison,7-1,Sun Belt,-0.83,Liberty
+25,Houston,6-2,Big 12,1.18,Oklahoma State

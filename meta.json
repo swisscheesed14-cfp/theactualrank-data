@@ -1,0 +1,23 @@
+{
+  "season": 2026,
+  "week": 9,
+  "label": "Week 9",
+  "updated_at": "2026-10-31T16:03:21Z",
+  "simulator": {
+    "home_field": 3.96,
+    "good_team": 12.75,
+    "good_cap": 18.22
+  },
+  "files": {
+    "matchups": "Week9Matchups.csv",
+    "top25": "Top 25.csv",
+    "rankings": "Rankings.csv",
+    "sos": "sos.csv",
+    "places": "Toughest Places to Play.csv",
+    "fpi": "fpi_top25.csv",
+    "fpi_all": "fpi.csv",
+    "playoff": "playoff.csv",
+    "record": "Record.csv",
+    "record_weeks": "RecordWeeks.csv"
+  }
+}

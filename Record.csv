@@ -1,0 +1,149 @@
+week,label,model_version,away,home,model,draftkings,actual,closer,side,ats,big_edge
+6,Week 6,Original,Eastern Michigan,Akron,0.21,-4.5,-2.0,model,home,W,False
+6,Week 6,Original,Georgia,Alabama,9.4,2.5,-3.0,draftkings,home,L,True
+6,Week 6,Original,Old Dominion,App State,2.79,8.5,-7.0,model,away,W,False
+6,Week 6,Original,Hawai'i,Arizona State,6.33,20.5,18.0,draftkings,away,W,True
+6,Week 6,Original,Tennessee,Arkansas,1.01,-13.5,-7.0,draftkings,home,W,True
+6,Week 6,Original,South Alabama,Arkansas State,2.57,3.0,-7.0,model,away,W,False
+6,Week 6,Original,Tulane,Army,2.82,5.5,3.0,model,away,W,False
+6,Week 6,Original,Iowa State,BYU,3.76,11.5,14.0,draftkings,away,L,True
+6,Week 6,Original,Sacramento State,Bowling Green,0.04,9.5,28.0,draftkings,away,L,True
+6,Week 6,Original,Virginia Tech,California,-1.79,-11.5,5.0,model,home,W,True
+6,Week 6,Original,Rice,East Carolina,2.63,10.0,16.0,draftkings,away,L,True
+6,Week 6,Original,South Carolina,Florida,-0.28,10.5,-19.0,model,away,W,True
+6,Week 6,Original,New Mexico State,Florida International,2.51,7.0,19.0,draftkings,away,L,False
+6,Week 6,Original,Boise State,Fresno State,-0.73,-8.5,-7.0,draftkings,home,W,True
+6,Week 6,Original,James Madison,Georgia Southern,-0.11,-7.0,-3.0,model,home,W,True
+6,Week 6,Original,Duke,Georgia Tech,2.0,-4.5,3.0,model,home,W,True
+6,Week 6,Original,Houston,Kansas State,-1.38,2.5,-19.0,model,away,W,False
+6,Week 6,Original,Jacksonville State,Kennesaw State,2.53,-3.0,-1.0,draftkings,home,W,False
+6,Week 6,Original,LSU,Kentucky,-2.25,-9.5,1.0,model,home,W,True
+6,Week 6,Original,Sam Houston,Liberty,3.66,13.5,32.0,draftkings,away,L,True
+6,Week 6,Original,Louisiana,Louisiana Tech,0.17,3.0,1.0,model,away,W,False
+6,Week 6,Original,Florida State,Louisville,2.78,4.0,24.0,draftkings,away,L,False
+6,Week 6,Original,Coastal Carolina,Marshall,-0.4,4.5,-6.0,model,away,W,False
+6,Week 6,Original,Miami (OH),Massachusetts,6.68,-6.0,-1.0,draftkings,home,W,True
+6,Week 6,Original,UAB,Memphis,4.63,15.5,25.0,draftkings,away,L,True
+6,Week 6,Original,Illinois,Michigan State,3.07,-2.5,-1.0,draftkings,home,W,False
+6,Week 6,Original,Texas A&M,Missouri,7.37,4.5,21.0,model,home,W,False
+6,Week 6,Original,Wake Forest,NC State,-4.64,-4.0,-24.0,model,away,W,False
+6,Week 6,Original,Tulsa,Navy,2.39,3.0,8.0,draftkings,away,L,False
+6,Week 6,Original,Indiana,Nebraska,-1.24,-9.5,-3.0,model,home,W,True
+6,Week 6,Original,Charlotte,North Texas,10.25,27.5,40.0,draftkings,away,L,True
+6,Week 6,Original,Air Force,Northern Illinois,-0.82,-7.0,-21.0,draftkings,home,L,True
+6,Week 6,Original,Ball State,Northwestern,12.37,34.5,31.0,draftkings,away,W,True
+6,Week 6,Original,Stanford,Notre Dame,16.54,40.5,51.0,draftkings,away,L,True
+6,Week 6,Original,Central Michigan,Ohio,2.11,2.5,17.0,draftkings,away,L,False
+6,Week 6,Original,Maryland,Ohio State,11.83,31.5,29.0,draftkings,away,W,True
+6,Week 6,Original,Texas,Oklahoma,-3.25,-7.5,3.0,model,home,W,False
+6,Week 6,Original,UCF,Oklahoma State,4.57,10.5,14.0,draftkings,away,L,False
+6,Week 6,Original,UCLA,Oregon,0.7,10.0,-2.0,model,away,W,True
+6,Week 6,Original,San Diego State,Oregon State,5.96,14.5,52.0,draftkings,away,L,True
+6,Week 6,Original,USC,Penn State,0.58,-1.5,-8.0,draftkings,home,L,False
+6,Week 6,Original,North Carolina,Pittsburgh,2.27,3.5,-4.0,model,away,W,False
+6,Week 6,Original,Minnesota,Purdue,5.81,-2.5,28.0,model,home,W,True
+6,Week 6,Original,Wyoming,San José State,6.02,4.5,-3.0,draftkings,home,L,False
+6,Week 6,Original,UConn,Temple,5.74,3.5,-14.0,draftkings,home,L,False
+6,Week 6,Original,Buffalo,Toledo,10.83,18.5,-15.0,model,away,W,True
+6,Week 6,Original,Southern Miss,Troy,7.8,9.5,21.0,draftkings,away,L,False
+6,Week 6,Original,North Dakota State,UNLV,0.98,-3.0,6.0,model,home,W,False
+6,Week 6,Original,Nevada,UTEP,-1.78,-10.0,-17.0,draftkings,home,L,True
+6,Week 6,Original,South Florida,UTSA,6.94,5.5,7.0,model,home,W,False
+6,Week 6,Original,Kansas,Utah,4.67,15.5,17.0,draftkings,away,L,True
+6,Week 6,Original,Washington State,Utah State,8.24,4.0,1.0,draftkings,home,L,False
+6,Week 6,Original,Ole Miss,Vanderbilt,-0.86,-9.5,-35.0,draftkings,home,L,True
+6,Week 6,Original,Syracuse,Virginia,1.21,14.0,3.0,model,away,W,True
+6,Week 6,Original,Iowa,Washington,1.75,3.0,-17.0,model,away,W,False
+6,Week 6,Original,Arizona,West Virginia,0.79,-3.5,-21.0,draftkings,home,L,False
+6,Week 6,Original,Missouri State,Western Kentucky,3.07,-1.5,21.0,model,home,W,False
+6,Week 6,Original,Kent State,Western Michigan,5.87,13.5,31.0,draftkings,away,L,True
+7,Week 7,Original,UNLV,Air Force,3.06,-1.5,10.0,model,home,W,False
+7,Week 7,Original,Notre Dame,BYU,-1.72,-10.5,4.0,model,home,W,True
+7,Week 7,Original,TCU,Baylor,0.8,4.5,-11.0,model,away,W,False
+7,Week 7,Original,Wake Forest,California,-3.72,-10.5,-34.0,draftkings,home,L,True
+7,Week 7,Original,Utah,Colorado,-1.84,-14.5,-3.0,model,home,W,True
+7,Week 7,Original,North Carolina,Duke,-0.25,3.0,-4.0,model,away,W,False
+7,Week 7,Original,Toledo,Eastern Michigan,-2.91,-7.5,-20.0,draftkings,home,L,False
+7,Week 7,Original,Auburn,Georgia,8.36,19.5,-3.0,model,away,W,True
+7,Week 7,Original,New Mexico,Hawai'i,-1.18,-14.5,-11.0,draftkings,home,W,True
+7,Week 7,Original,Oklahoma State,Houston,3.51,4.0,3.0,model,away,W,False
+7,Week 7,Original,Troy,Louisiana,1.89,3.0,27.0,draftkings,away,L,False
+7,Week 7,Original,Florida State,Miami,5.7,19.5,8.0,model,away,W,True
+7,Week 7,Original,Akron,Miami (OH),2.84,9.5,20.0,draftkings,away,L,True
+7,Week 7,Original,Penn State,Michigan,6.37,6.0,3.0,draftkings,home,L,False
+7,Week 7,Original,Nevada,North Dakota State,4.92,14.5,14.0,draftkings,away,W,True
+7,Week 7,Original,Kentucky,Oklahoma,3.99,6.5,-8.0,model,away,W,False
+7,Week 7,Original,Missouri,Ole Miss,2.08,4.0,28.0,draftkings,away,L,False
+7,Week 7,Original,Nebraska,Oregon,2.4,7.0,3.0,model,away,W,False
+7,Week 7,Original,Washington State,Oregon State,10.89,18.5,18.0,draftkings,away,W,True
+7,Week 7,Original,Tulsa,Rice,0.45,-4.5,-21.0,draftkings,home,L,False
+7,Week 7,Original,Ohio,Sacramento State,0.84,-15.5,-41.0,draftkings,home,L,True
+7,Week 7,Original,Fresno State,San Diego State,1.46,-7.0,3.0,model,home,W,True
+7,Week 7,Original,Kent State,South Florida,5.08,20.5,27.0,draftkings,away,L,True
+7,Week 7,Original,Arkansas State,Southern Miss,0.57,-6.0,-10.0,draftkings,home,L,True
+7,Week 7,Original,Louisville,Syracuse,-3.49,-14.5,-8.0,model,home,W,True
+7,Week 7,Original,Alabama,Tennessee,-4.41,-7.5,16.0,model,home,W,False
+7,Week 7,Original,Arizona State,Texas Tech,7.29,16.5,28.0,draftkings,away,L,True
+7,Week 7,Original,Wisconsin,UCLA,-0.19,1.5,10.0,draftkings,away,L,False
+7,Week 7,Original,Louisiana Tech,UL Monroe,-4.1,-13.5,-24.0,draftkings,home,L,True
+7,Week 7,Original,San José State,UTEP,-2.44,-7.0,-13.0,draftkings,home,L,False
+7,Week 7,Original,Navy,UTSA,1.77,6.5,4.0,model,away,W,False
+7,Week 7,Original,Arkansas,Vanderbilt,3.8,5.5,-10.0,model,away,W,False
+7,Week 7,Original,Georgia Tech,Virginia Tech,5.13,8.5,10.0,draftkings,away,L,False
+7,Week 7,Original,Northern Illinois,Wyoming,0.75,7.5,18.0,draftkings,away,L,True
+8,Week 8,Original,Texas A&M,Alabama,12.63,13.5,11.0,model,away,W,False
+8,Week 8,Original,James Madison,App State,-7.33,-12.5,3.0,model,home,W,False
+8,Week 8,Original,Iowa State,Arizona,7.69,12.5,36.0,draftkings,away,L,False
+8,Week 8,Original,Kansas State,Arizona State,-0.67,-1.5,11.0,model,home,W,False
+8,Week 8,Original,Georgia State,Arkansas State,-3.66,-2.5,6.0,draftkings,away,L,False
+8,Week 8,Original,LSU,Auburn,-3.94,-7.0,-21.0,draftkings,home,L,False
+8,Week 8,Original,Sacramento State,Ball State,5.57,14.5,17.0,draftkings,away,L,True
+8,Week 8,Original,Bowling Green,Buffalo,3.96,3.0,7.0,model,home,W,False
+8,Week 8,Original,Miami (OH),Central Michigan,-1.17,-3.5,-1.0,model,home,W,False
+8,Week 8,Original,Texas Tech,Cincinnati,-4.19,-10.5,13.0,model,home,W,True
+8,Week 8,Original,Virginia Tech,Clemson,2.42,3.0,-4.0,model,away,W,False
+8,Week 8,Original,San Diego State,Colorado State,1.68,-1.5,7.0,model,home,W,False
+8,Week 8,Original,Missouri State,Delaware,5.18,3.0,23.0,model,home,W,False
+8,Week 8,Original,Rice,Florida Atlantic,3.49,10.0,2.0,model,away,W,True
+8,Week 8,Original,Middle Tennessee,Florida International,6.01,10.0,-3.0,model,away,W,False
+8,Week 8,Original,Boston College,Georgia Tech,1.54,6.5,-22.0,model,away,W,False
+8,Week 8,Original,Oregon,Illinois,-3.65,-10.5,11.0,model,home,W,True
+8,Week 8,Original,Baylor,Kansas,-0.64,1.5,1.0,draftkings,away,W,False
+8,Week 8,Original,Liberty,Kennesaw State,-2.66,-9.5,-28.0,draftkings,home,L,True
+8,Week 8,Original,Akron,Kent State,3.49,3.0,15.0,model,home,W,False
+8,Week 8,Original,Vanderbilt,Kentucky,5.98,10.5,17.0,draftkings,away,L,False
+8,Week 8,Original,Old Dominion,Louisiana Tech,6.65,13.5,26.0,draftkings,away,L,True
+8,Week 8,Original,South Alabama,Marshall,-0.45,-2.5,7.0,model,home,W,False
+8,Week 8,Original,East Carolina,Memphis,5.9,10.5,7.0,model,away,W,False
+8,Week 8,Original,Pittsburgh,Miami,5.13,20.5,29.0,draftkings,away,L,True
+8,Week 8,Original,Indiana,Michigan,-2.09,-7.5,-7.0,draftkings,home,W,False
+8,Week 8,Original,Iowa,Minnesota,-0.97,-7.5,3.0,model,home,W,True
+8,Week 8,Original,Oklahoma,Mississippi State,1.45,-1.5,-8.0,draftkings,home,L,False
+8,Week 8,Original,North Texas,Navy,0.54,-3.0,-10.0,draftkings,home,L,False
+8,Week 8,Original,San José State,Nevada,4.17,5.5,15.0,draftkings,away,L,False
+8,Week 8,Original,North Dakota State,New Mexico,-1.2,4.5,5.0,draftkings,away,L,False
+8,Week 8,Original,Syracuse,North Carolina,6.14,9.5,-1.0,model,away,W,False
+8,Week 8,Original,Hawai'i,Northern Illinois,3.91,-3.0,-35.0,draftkings,home,L,True
+8,Week 8,Original,Rutgers,Northwestern,9.39,15.5,28.0,draftkings,away,L,True
+8,Week 8,Original,Eastern Michigan,Ohio,3.89,10.5,4.0,model,away,W,True
+8,Week 8,Original,Colorado,Oklahoma State,5.49,13.5,33.0,draftkings,away,L,True
+8,Week 8,Original,California,SMU,7.03,18.5,39.0,draftkings,away,L,True
+8,Week 8,Original,New Mexico State,Sam Houston,-1.2,-3.0,-6.0,draftkings,home,L,False
+8,Week 8,Original,Tennessee,South Carolina,-0.32,2.5,3.0,draftkings,away,L,False
+8,Week 8,Original,Louisiana,Southern Miss,-5.17,-10.0,4.0,model,home,W,False
+8,Week 8,Original,NC State,Stanford,-1.45,-7.5,3.0,model,home,W,True
+8,Week 8,Original,West Virginia,TCU,7.56,10.0,-4.0,model,away,W,False
+8,Week 8,Original,Ole Miss,Texas,4.0,3.0,7.0,model,home,W,False
+8,Week 8,Original,Utah State,Texas State,7.07,13.5,3.0,model,away,W,True
+8,Week 8,Original,Western Michigan,Toledo,4.66,2.5,7.0,model,home,W,False
+8,Week 8,Original,UL Monroe,Troy,7.42,13.5,-7.0,model,away,W,True
+8,Week 8,Original,UTSA,Tulane,-2.89,-3.0,-23.0,draftkings,home,L,False
+8,Week 8,Original,Army,Tulsa,2.6,1.5,-3.0,draftkings,home,L,False
+8,Week 8,Original,BYU,UCF,-1.18,-7.5,8.0,model,home,W,True
+8,Week 8,Original,Michigan State,UCLA,6.86,16.5,18.0,draftkings,away,L,True
+8,Week 8,Original,Massachusetts,UConn,2.13,12.5,19.0,draftkings,away,L,True
+8,Week 8,Original,Houston,Utah,2.49,6.5,8.0,draftkings,away,L,False
+8,Week 8,Original,Duke,Virginia,-0.76,2.5,-3.0,model,away,W,False
+8,Week 8,Original,Boise State,Washington State,-5.15,-14.5,-21.0,draftkings,home,L,True
+8,Week 8,Original,USC,Wisconsin,2.78,-2.5,17.0,model,home,W,False
+8,Week 8,Original,Air Force,Wyoming,-3.24,-5.5,14.0,model,home,W,False

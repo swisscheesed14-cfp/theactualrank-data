@@ -1,0 +1,30 @@
+{
+  "season": 2026,
+  "week": 10,
+  "label": "Week 10",
+  "updated_at": "2026-11-07T17:04:00Z",
+  "simulator": {
+    "home_field": 3.96,
+    "good_team": 12.75,
+    "good_cap": 18.22
+  },
+  "files": {
+    "matchups": "Week10Matchups.csv",
+    "top25": "Top 25.csv",
+    "rankings": "Rankings.csv",
+    "sos": "sos.csv",
+    "places": "Toughest Places to Play.csv",
+    "fpi": "fpi_top25.csv",
+    "fpi_all": "fpi.csv",
+    "playoff": "playoff.csv",
+    "record": "Record.csv",
+    "record_weeks": "RecordWeeks.csv",
+    "teams": "teams.csv",
+    "history": "rank_history.csv",
+    "games": "games.csv",
+    "polls": "polls.csv",
+    "share_top25": "top25.png",
+    "share_games": "games.png",
+    "share_og": "og.png"
+  }
+}

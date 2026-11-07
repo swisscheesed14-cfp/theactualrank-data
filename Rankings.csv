@@ -1,0 +1,139 @@
+rank,prev_rank,team,record,conference,sos,best_win
+1,1,Miami,8-0,ACC,0.53,Wake Forest
+2,2,Kentucky,7-1,SEC,1.4,LSU
+3,3,UCLA,8-0,Big Ten,-0.36,Oregon
+4,5,Utah,8-0,Big 12,0.16,Houston
+5,7,Indiana,8-1,Big Ten,0.47,Northwestern
+6,16,Ole Miss,6-2,SEC,1.34,LSU
+7,8,Georgia,7-1,SEC,0.75,Alabama
+8,20,Tennessee,6-2,SEC,0.81,Alabama
+9,22,Alabama,6-2,SEC,1.45,Kentucky
+10,10,Texas,6-2,SEC,2.09,Ole Miss
+11,4,BYU,7-1,Big 12,0.55,Notre Dame
+12,6,Ohio State,6-2,Big Ten,0.78,Indiana
+13,11,Notre Dame,7-1,FBS Independents,-0.07,Wisconsin
+14,14,Texas Tech,7-1,Big 12,0.01,Houston
+15,12,Wake Forest,7-1,ACC,-0.04,Louisville
+16,17,LSU,6-2,SEC,1.81,Mississippi State
+17,25,Houston,6-2,Big 12,0.97,Oklahoma State
+18,46,South Carolina,5-3,SEC,1.8,Tennessee
+19,13,Missouri,6-2,SEC,0.65,Florida
+20,9,Florida,5-3,SEC,2.23,Ole Miss
+21,15,UTSA,7-1,American Athletic,-0.21,South Florida
+22,21,Boise State,7-1,Pac-12,0.06,Memphis
+23,32,USC,7-2,Big Ten,0.5,Ohio State
+24,34,Iowa,6-2,Big Ten,0.49,Wisconsin
+25,18,Northwestern,6-2,Big Ten,-0.0,Colorado
+26,41,Illinois,5-3,Big Ten,0.31,Oregon
+27,42,Oregon,5-3,Big Ten,1.85,Boise State
+28,52,Oklahoma,4-4,SEC,1.7,Texas
+29,45,Mississippi State,4-4,SEC,1.71,South Carolina
+30,62,Auburn,4-4,SEC,1.54,Georgia
+31,27,Wisconsin,5-3,Big Ten,1.26,USC
+32,51,Michigan,5-3,Big Ten,0.35,Oklahoma
+33,23,Arizona,6-2,Big 12,-0.03,West Virginia
+34,26,New Mexico,7-1,Mountain West,-1.38,North Dakota State
+35,36,Virginia Tech,6-2,ACC,-0.89,Clemson
+36,59,Clemson,5-3,ACC,1.05,North Carolina
+37,19,SMU,6-2,ACC,-0.57,Boston College
+38,37,North Texas,6-2,American Athletic,-0.45,UNLV
+39,38,Louisiana Tech,6-2,Sun Belt,-0.43,Army
+40,30,Liberty,7-1,Conference USA,-1.82,Florida International
+41,31,Minnesota,5-3,Big Ten,0.63,Iowa
+42,56,Pittsburgh,6-3,ACC,0.33,Virginia Tech
+43,58,Louisville,5-3,ACC,0.88,SMU
+44,64,West Virginia,5-3,Big 12,0.34,Cincinnati
+45,28,Cincinnati,5-3,Big 12,0.96,Texas Tech
+46,29,Oklahoma State,5-3,Big 12,0.57,Oregon
+47,65,Baylor,5-3,Big 12,0.11,Louisiana Tech
+48,33,Duke,6-2,ACC,-0.26,Illinois
+49,61,North Carolina,4-4,ACC,1.49,Pittsburgh
+50,68,Washington,5-3,Big Ten,0.24,Nebraska
+51,43,Memphis,7-2,American Athletic,-0.46,Army
+52,24,James Madison,7-2,Sun Belt,-1.01,Liberty
+53,57,UCF,4-4,Big 12,0.89,BYU
+54,44,North Dakota State,7-2,Mountain West,-0.87,Air Force
+55,86,Texas A&M,4-4,SEC,1.31,Arizona State
+56,90,Iowa State,4-4,Big 12,1.3,West Virginia
+57,35,Nebraska,5-3,Big Ten,0.04,Ohio
+58,66,Arizona State,4-4,Big 12,0.26,Kansas State
+59,48,Ohio,6-2,Mid-American,-1.27,Jacksonville State
+60,55,Air Force,6-2,Mountain West,-1.3,UNLV
+61,49,Jacksonville State,6-2,Conference USA,-1.03,Georgia Southern
+62,109,Colorado,3-5,Big 12,0.97,Kansas State
+63,50,Toledo,6-2,Mid-American,-1.3,Western Michigan
+64,70,Western Michigan,6-3,Mid-American,-0.84,Buffalo
+65,95,Penn State,4-4,Big Ten,0.29,Purdue
+66,80,Fresno State,5-3,Pac-12,-0.88,Oregon State
+67,93,Syracuse,4-4,ACC,0.17,SMU
+68,60,Boston College,4-4,ACC,0.16,Pittsburgh
+69,39,South Florida,6-2,American Athletic,-1.21,Army
+70,47,Oregon State,5-3,Pac-12,-0.51,Colorado State
+71,87,Arkansas,3-5,SEC,1.44,Vanderbilt
+72,92,TCU,4-4,Big 12,0.45,Baylor
+73,84,Stanford,4-5,ACC,0.95,NC State
+74,40,Army,5-3,American Athletic,-0.27,Florida Atlantic
+75,71,UNLV,5-3,Mountain West,-1.07,North Dakota State
+76,78,Purdue,3-5,Big Ten,1.82,Illinois
+77,54,Florida Atlantic,5-3,American Athletic,-0.91,Florida International
+78,75,Louisiana,5-3,Sun Belt,-0.77,Arkansas State
+79,67,Kansas State,4-4,Big 12,-0.21,Kansas
+80,63,Texas State,4-4,Pac-12,0.95,North Texas
+81,53,App State,5-3,Sun Belt,-1.22,James Madison
+82,89,Kansas,3-5,Big 12,0.59,Baylor
+83,77,Miami (OH),5-3,Mid-American,-1.49,Massachusetts
+84,91,Florida State,3-5,ACC,1.15,Virginia
+85,83,Virginia,4-5,ACC,0.46,Syracuse
+86,94,Tulane,4-4,American Athletic,-0.17,Memphis
+87,72,Marshall,5-3,Sun Belt,-1.19,South Alabama
+88,112,Vanderbilt,3-5,SEC,1.36,NC State
+89,85,NC State,4-4,ACC,0.21,Louisville
+90,97,Georgia Southern,4-4,Sun Belt,0.0,App State
+91,69,South Alabama,4-4,Sun Belt,-0.05,Ohio
+92,88,Colorado State,3-5,Pac-12,0.44,Wyoming
+93,73,Buffalo,5-3,Mid-American,-1.03,Toledo
+94,108,California,3-6,ACC,1.19,Virginia Tech
+95,125,Michigan State,2-6,Big Ten,1.2,Toledo
+96,79,Wyoming,5-3,Mountain West,-1.56,Air Force
+97,100,Arkansas State,4-4,Sun Belt,-0.89,Georgia State
+98,111,San Diego State,4-5,Pac-12,0.15,Fresno State
+99,121,Utah State,3-5,Pac-12,0.23,Colorado State
+100,76,UAB,4-4,American Athletic,-0.58,East Carolina
+101,113,Rutgers,2-6,Big Ten,0.49,Maryland
+102,98,Tulsa,4-4,American Athletic,-0.97,Oklahoma State
+103,101,Nevada,3-5,Mountain West,-0.55,San José State
+104,106,Massachusetts,4-4,Mid-American,-1.8,Rutgers
+105,104,New Mexico State,3-5,Conference USA,-1.42,Western Kentucky
+106,107,Troy,4-4,Sun Belt,-1.25,James Madison
+107,96,Florida International,3-5,Conference USA,-0.47,Buffalo
+108,99,East Carolina,4-4,American Athletic,-0.89,Temple
+109,74,Middle Tennessee,4-4,Conference USA,-1.18,Nevada
+110,81,UConn,4-4,FBS Independents,-1.5,Massachusetts
+111,103,Delaware,4-4,Conference USA,-1.2,Coastal Carolina
+112,114,Maryland,2-6,Big Ten,0.74,UConn
+113,82,Georgia State,4-4,Sun Belt,-1.72,Kennesaw State
+114,122,Ball State,3-5,Mid-American,-0.43,Bowling Green
+115,102,San José State,4-5,Mountain West,-0.76,Eastern Michigan
+116,118,Coastal Carolina,3-5,Sun Belt,-0.46,Marshall
+117,123,Eastern Michigan,4-5,Mid-American,-1.25,Massachusetts
+118,110,Georgia Tech,2-6,ACC,0.6,Duke
+119,105,Western Kentucky,3-5,Conference USA,-0.95,Missouri State
+120,119,Southern Miss,3-5,Sun Belt,-1.01,Louisiana
+121,117,Central Michigan,3-5,Mid-American,0.18,Wyoming
+122,116,Navy,2-6,American Athletic,0.57,Tulsa
+123,124,Missouri State,3-5,Conference USA,-1.41,Kennesaw State
+124,120,Kent State,3-6,Mid-American,-0.34,Ball State
+125,132,Kennesaw State,2-6,Conference USA,-0.5,Middle Tennessee
+126,130,Hawai'i,2-6,Mountain West,-1.08,New Mexico State
+127,115,Temple,2-6,American Athletic,-0.61,South Florida
+128,126,Old Dominion,2-7,Sun Belt,-0.25,App State
+129,131,UTEP,1-7,Mountain West,0.31,
+130,135,Washington State,1-8,Pac-12,0.37,
+131,127,Charlotte,1-7,American Athletic,0.27,Temple
+132,134,Rice,1-7,American Athletic,0.43,
+133,128,Bowling Green,2-7,Mid-American,-0.66,Miami (OH)
+134,129,UL Monroe,1-7,Sun Belt,-0.49,Troy
+135,133,Sam Houston,1-7,Conference USA,-1.02,
+136,136,Akron,1-7,Mid-American,-0.35,
+137,138,Sacramento State,2-7,Mid-American,-1.18,Kent State
+138,137,Northern Illinois,0-8,Mountain West,-0.27,

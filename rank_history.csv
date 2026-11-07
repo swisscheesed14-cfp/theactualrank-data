@@ -1,0 +1,415 @@
+week,team,rank
+7,Air Force,34
+8,Air Force,55
+9,Air Force,60
+7,Akron,135
+8,Akron,136
+9,Akron,136
+7,Alabama,24
+8,Alabama,22
+9,Alabama,9
+7,App State,65
+8,App State,53
+9,App State,81
+7,Arizona,30
+8,Arizona,23
+9,Arizona,33
+7,Arizona State,82
+8,Arizona State,66
+9,Arizona State,58
+7,Arkansas,99
+8,Arkansas,87
+9,Arkansas,71
+7,Arkansas State,115
+8,Arkansas State,100
+9,Arkansas State,97
+7,Army,49
+8,Army,40
+9,Army,74
+7,Auburn,35
+8,Auburn,62
+9,Auburn,30
+7,BYU,1
+8,BYU,4
+9,BYU,11
+7,Ball State,124
+8,Ball State,122
+9,Ball State,114
+7,Baylor,38
+8,Baylor,65
+9,Baylor,47
+7,Boise State,15
+8,Boise State,21
+9,Boise State,22
+7,Boston College,72
+8,Boston College,60
+9,Boston College,68
+7,Bowling Green,126
+8,Bowling Green,128
+9,Bowling Green,133
+7,Buffalo,79
+8,Buffalo,73
+9,Buffalo,93
+7,California,98
+8,California,108
+9,California,94
+7,Central Michigan,109
+8,Central Michigan,117
+9,Central Michigan,121
+7,Charlotte,130
+8,Charlotte,127
+9,Charlotte,131
+7,Cincinnati,43
+8,Cincinnati,28
+9,Cincinnati,45
+7,Clemson,27
+8,Clemson,59
+9,Clemson,36
+7,Coastal Carolina,125
+8,Coastal Carolina,118
+9,Coastal Carolina,116
+7,Colorado,95
+8,Colorado,109
+9,Colorado,62
+7,Colorado State,101
+8,Colorado State,88
+9,Colorado State,92
+7,Delaware,117
+8,Delaware,103
+9,Delaware,111
+7,Duke,42
+8,Duke,33
+9,Duke,48
+7,East Carolina,85
+8,East Carolina,99
+9,East Carolina,108
+7,Eastern Michigan,116
+8,Eastern Michigan,123
+9,Eastern Michigan,117
+7,Florida,17
+8,Florida,9
+9,Florida,20
+7,Florida Atlantic,59
+8,Florida Atlantic,54
+9,Florida Atlantic,77
+7,Florida International,78
+8,Florida International,96
+9,Florida International,107
+7,Florida State,103
+8,Florida State,91
+9,Florida State,84
+7,Fresno State,83
+8,Fresno State,80
+9,Fresno State,66
+7,Georgia,9
+8,Georgia,8
+9,Georgia,7
+7,Georgia Southern,107
+8,Georgia Southern,97
+9,Georgia Southern,90
+7,Georgia State,64
+8,Georgia State,82
+9,Georgia State,113
+7,Georgia Tech,97
+8,Georgia Tech,110
+9,Georgia Tech,118
+7,Hawai'i,131
+8,Hawai'i,130
+9,Hawai'i,126
+7,Houston,6
+8,Houston,25
+9,Houston,17
+7,Illinois,74
+8,Illinois,41
+9,Illinois,26
+7,Indiana,11
+8,Indiana,7
+9,Indiana,5
+7,Iowa,23
+8,Iowa,34
+9,Iowa,24
+7,Iowa State,73
+8,Iowa State,90
+9,Iowa State,56
+7,Jacksonville State,56
+8,Jacksonville State,49
+9,Jacksonville State,61
+7,James Madison,13
+8,James Madison,24
+9,James Madison,52
+7,Kansas,108
+8,Kansas,89
+9,Kansas,82
+7,Kansas State,50
+8,Kansas State,67
+9,Kansas State,79
+7,Kennesaw State,128
+8,Kennesaw State,132
+9,Kennesaw State,125
+7,Kent State,122
+8,Kent State,120
+9,Kent State,124
+7,Kentucky,3
+8,Kentucky,2
+9,Kentucky,2
+7,LSU,22
+8,LSU,17
+9,LSU,16
+7,Liberty,37
+8,Liberty,30
+9,Liberty,40
+7,Louisiana,54
+8,Louisiana,75
+9,Louisiana,78
+7,Louisiana Tech,45
+8,Louisiana Tech,38
+9,Louisiana Tech,39
+7,Louisville,67
+8,Louisville,58
+9,Louisville,43
+7,Marshall,86
+8,Marshall,72
+9,Marshall,87
+7,Maryland,123
+8,Maryland,114
+9,Maryland,112
+7,Massachusetts,92
+8,Massachusetts,106
+9,Massachusetts,104
+7,Memphis,48
+8,Memphis,43
+9,Memphis,51
+7,Miami,2
+8,Miami,1
+9,Miami,1
+7,Miami (OH),89
+8,Miami (OH),77
+9,Miami (OH),83
+7,Michigan,40
+8,Michigan,51
+9,Michigan,32
+7,Michigan State,119
+8,Michigan State,125
+9,Michigan State,95
+7,Middle Tennessee,91
+8,Middle Tennessee,74
+9,Middle Tennessee,109
+7,Minnesota,39
+8,Minnesota,31
+9,Minnesota,41
+7,Mississippi State,33
+8,Mississippi State,45
+9,Mississippi State,29
+7,Missouri,19
+8,Missouri,13
+9,Missouri,19
+7,Missouri State,118
+8,Missouri State,124
+9,Missouri State,123
+7,NC State,70
+8,NC State,85
+9,NC State,89
+7,Navy,102
+8,Navy,116
+9,Navy,122
+7,Nebraska,44
+8,Nebraska,35
+9,Nebraska,57
+7,Nevada,113
+8,Nevada,101
+9,Nevada,103
+7,New Mexico,41
+8,New Mexico,26
+9,New Mexico,34
+7,New Mexico State,111
+8,New Mexico State,104
+9,New Mexico State,105
+7,North Carolina,31
+8,North Carolina,61
+9,North Carolina,49
+7,North Dakota State,32
+8,North Dakota State,44
+9,North Dakota State,54
+7,North Texas,47
+8,North Texas,37
+9,North Texas,38
+7,Northern Illinois,136
+8,Northern Illinois,137
+9,Northern Illinois,138
+7,Northwestern,26
+8,Northwestern,18
+9,Northwestern,25
+7,Notre Dame,12
+8,Notre Dame,11
+9,Notre Dame,13
+7,Ohio,55
+8,Ohio,48
+9,Ohio,59
+7,Ohio State,10
+8,Ohio State,6
+9,Ohio State,12
+7,Oklahoma,62
+8,Oklahoma,52
+9,Oklahoma,28
+7,Oklahoma State,29
+8,Oklahoma State,29
+9,Oklahoma State,46
+7,Old Dominion,121
+8,Old Dominion,126
+9,Old Dominion,128
+7,Ole Miss,7
+8,Ole Miss,16
+9,Ole Miss,6
+7,Oregon,8
+8,Oregon,42
+9,Oregon,27
+7,Oregon State,51
+8,Oregon State,47
+9,Oregon State,70
+7,Penn State,105
+8,Penn State,95
+9,Penn State,65
+7,Pittsburgh,46
+8,Pittsburgh,56
+9,Pittsburgh,42
+7,Purdue,90
+8,Purdue,78
+9,Purdue,76
+7,Rice,132
+8,Rice,134
+9,Rice,132
+7,Rutgers,106
+8,Rutgers,113
+9,Rutgers,101
+7,SMU,28
+8,SMU,19
+9,SMU,37
+7,Sacramento State,138
+8,Sacramento State,138
+9,Sacramento State,137
+7,Sam Houston,127
+8,Sam Houston,133
+9,Sam Houston,135
+7,San Diego State,94
+8,San Diego State,111
+9,San Diego State,98
+7,San José State,88
+8,San José State,102
+9,San José State,115
+7,South Alabama,53
+8,South Alabama,69
+9,South Alabama,91
+7,South Carolina,60
+8,South Carolina,46
+9,South Carolina,18
+7,South Florida,58
+8,South Florida,39
+9,South Florida,69
+7,Southern Miss,129
+8,Southern Miss,119
+9,Southern Miss,120
+7,Stanford,96
+8,Stanford,84
+9,Stanford,73
+7,Syracuse,112
+8,Syracuse,93
+9,Syracuse,67
+7,TCU,66
+8,TCU,92
+9,TCU,72
+7,Temple,120
+8,Temple,115
+9,Temple,127
+7,Tennessee,14
+8,Tennessee,20
+9,Tennessee,8
+7,Texas,18
+8,Texas,10
+9,Texas,10
+7,Texas A&M,71
+8,Texas A&M,86
+9,Texas A&M,55
+7,Texas State,68
+8,Texas State,63
+9,Texas State,80
+7,Texas Tech,5
+8,Texas Tech,14
+9,Texas Tech,14
+7,Toledo,61
+8,Toledo,50
+9,Toledo,63
+7,Troy,93
+8,Troy,107
+9,Troy,106
+7,Tulane,77
+8,Tulane,94
+9,Tulane,86
+7,Tulsa,81
+8,Tulsa,98
+9,Tulsa,102
+7,UAB,84
+8,UAB,76
+9,UAB,100
+7,UCF,63
+8,UCF,57
+9,UCF,53
+7,UCLA,4
+8,UCLA,3
+9,UCLA,3
+7,UConn,100
+8,UConn,81
+9,UConn,110
+7,UL Monroe,137
+8,UL Monroe,129
+9,UL Monroe,134
+7,UNLV,80
+8,UNLV,71
+9,UNLV,75
+7,USC,21
+8,USC,32
+9,USC,23
+7,UTEP,134
+8,UTEP,131
+9,UTEP,129
+7,UTSA,25
+8,UTSA,15
+9,UTSA,21
+7,Utah,16
+8,Utah,5
+9,Utah,4
+7,Utah State,110
+8,Utah State,121
+9,Utah State,99
+7,Vanderbilt,104
+8,Vanderbilt,112
+9,Vanderbilt,88
+7,Virginia,69
+8,Virginia,83
+9,Virginia,85
+7,Virginia Tech,57
+8,Virginia Tech,36
+9,Virginia Tech,35
+7,Wake Forest,20
+8,Wake Forest,12
+9,Wake Forest,15
+7,Washington,76
+8,Washington,68
+9,Washington,50
+7,Washington State,133
+8,Washington State,135
+9,Washington State,130
+7,West Virginia,75
+8,West Virginia,64
+9,West Virginia,44
+7,Western Kentucky,114
+8,Western Kentucky,105
+9,Western Kentucky,119
+7,Western Michigan,52
+8,Western Michigan,70
+9,Western Michigan,64
+7,Wisconsin,36
+8,Wisconsin,27
+9,Wisconsin,31
+7,Wyoming,87
+8,Wyoming,79
+9,Wyoming,96

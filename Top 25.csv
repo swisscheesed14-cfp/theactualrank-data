@@ -1,0 +1,26 @@
+rank,prev_rank,team,record,conference,sos,best_win
+1,3,UCLA,9-0,Big Ten,-0.11,Oregon
+2,4,Utah,9-0,Big 12,0.4,BYU
+3,7,Georgia,8-1,SEC,1.09,Alabama
+4,8,Tennessee,7-2,SEC,1.28,Alabama
+5,9,Alabama,7-2,SEC,1.71,Kentucky
+6,13,Notre Dame,8-1,FBS Independents,0.48,Miami
+7,1,Miami,8-1,ACC,1.04,Wake Forest
+8,2,Kentucky,7-2,SEC,1.66,South Carolina
+9,10,Texas,7-2,SEC,1.84,Tennessee
+10,5,Indiana,8-1,Big Ten,0.11,North Texas
+11,6,Ole Miss,6-3,SEC,1.43,LSU
+12,14,Texas Tech,8-1,Big 12,-0.0,Houston
+13,11,BYU,7-2,Big 12,1.1,Notre Dame
+14,27,Oregon,6-3,Big Ten,2.01,Boise State
+15,24,Iowa,7-2,Big Ten,0.24,Wisconsin
+16,22,Boise State,8-1,Pac-12,-0.02,Memphis
+17,17,Houston,7-2,Big 12,1.02,Oklahoma State
+18,15,Wake Forest,8-1,ACC,-0.31,Louisville
+19,23,USC,7-2,Big Ten,0.44,Ohio State
+20,12,Ohio State,6-3,Big Ten,1.05,Indiana
+21,18,South Carolina,6-3,SEC,1.56,Tennessee
+22,16,LSU,6-3,SEC,1.89,Auburn
+23,28,Oklahoma,5-4,SEC,1.55,Texas
+24,34,New Mexico,8-1,Mountain West,-1.23,North Dakota State
+25,33,Arizona,7-2,Big 12,-0.18,West Virginia

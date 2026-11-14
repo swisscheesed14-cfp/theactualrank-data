@@ -1,0 +1,50 @@
+{
+  "season": 2026,
+  "week": 11,
+  "label": "Week 11",
+  "updated_at": "2026-11-14T22:05:45Z",
+  "simulator": {
+    "home_field": 3.96,
+    "good_team": 12.75,
+    "good_cap": 18.22,
+    "spread_sd": 16.22
+  },
+  "files": {
+    "matchups": "Week11Matchups.csv",
+    "top25": "Top 25.csv",
+    "rankings": "Rankings.csv",
+    "sos": "sos.csv",
+    "places": "Toughest Places to Play.csv",
+    "power": "power_top25.csv",
+    "power_all": "power.csv",
+    "playoff": "playoff.csv",
+    "record": "Record.csv",
+    "record_weeks": "RecordWeeks.csv",
+    "teams": "teams.csv",
+    "history": "rank_history.csv",
+    "games": "games.csv",
+    "polls": "polls.csv",
+    "standings": "standings.csv",
+    "watch": "Week11Games.csv",
+    "share_top25": "top25.png",
+    "share_games": "games.png",
+    "share_og": "og.png",
+    "share_playoff": "playoff.png",
+    "share_sos": "sos.png",
+    "share_places": "stadiums.png",
+    "share_power": "power.png"
+  },
+  "share_conferences": {
+    "ACC": "conf-acc.png",
+    "American Athletic": "conf-american-athletic.png",
+    "Big 12": "conf-big-12.png",
+    "Big Ten": "conf-big-ten.png",
+    "Conference USA": "conf-conference-usa.png",
+    "Mid-American": "conf-mid-american.png",
+    "Mountain West": "conf-mountain-west.png",
+    "Pac-12": "conf-pac-12.png",
+    "SEC": "conf-sec.png",
+    "Sun Belt": "conf-sun-belt.png"
+  },
+  "share_dark": true
+}

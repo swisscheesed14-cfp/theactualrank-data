@@ -1,0 +1,137 @@
+conference,division,place,team,conf_w,conf_l,w,l,games_back,conf_left
+ACC,,1,Miami,6,0,8,1,0.0,3
+ACC,,2,Wake Forest,5,1,8,1,1.0,3
+ACC,,3,Louisville,5,2,6,3,1.5,2
+ACC,,4,SMU,5,2,7,2,1.5,2
+ACC,,5,Clemson,4,2,6,3,2.0,2
+ACC,,6,Duke,4,2,7,2,2.0,3
+ACC,,7,Virginia Tech,3,3,6,3,3.0,3
+ACC,,8,Florida State,3,4,5,5,3.5,1
+ACC,,9,Pittsburgh,3,4,6,4,3.5,2
+ACC,,10,North Carolina,2,3,5,4,3.5,3
+ACC,,11,Stanford,2,4,4,5,4.0,3
+ACC,,12,Virginia,2,4,4,5,4.0,3
+ACC,,13,Boston College,2,4,4,5,4.0,2
+ACC,,14,NC State,2,4,4,5,4.0,3
+ACC,,15,California,2,4,3,6,4.0,3
+ACC,,16,Syracuse,2,5,4,5,4.5,2
+ACC,,17,Georgia Tech,1,5,2,7,5.0,2
+American Athletic,,1,North Texas,5,0,7,2,0.0,3
+American Athletic,,2,Memphis,5,1,8,2,0.5,2
+American Athletic,,3,UTSA,4,1,7,2,1.0,3
+American Athletic,,4,Army,4,2,5,4,1.5,2
+American Athletic,,5,UAB,3,2,5,4,2.0,3
+American Athletic,,6,Florida Atlantic,3,2,6,3,2.0,3
+American Athletic,,7,East Carolina,3,2,5,4,2.0,3
+American Athletic,,8,Tulsa,2,3,5,4,3.0,3
+American Athletic,,9,Tulane,2,3,4,5,3.0,3
+American Athletic,,10,South Florida,2,4,6,4,3.5,2
+American Athletic,,11,Navy,2,4,3,6,3.5,2
+American Athletic,,12,Charlotte,1,4,1,8,4.0,3
+American Athletic,,13,Temple,1,4,2,7,4.0,3
+American Athletic,,14,Rice,0,5,1,8,5.0,3
+Big 12,,1,Utah,6,0,9,0,0.0,3
+Big 12,,2,Texas Tech,5,1,8,1,1.0,3
+Big 12,,3,BYU,4,2,7,2,2.0,3
+Big 12,,4,Oklahoma State,4,2,6,3,2.0,3
+Big 12,,5,Baylor,4,2,6,3,2.0,3
+Big 12,,6,Arizona,4,2,7,2,2.0,3
+Big 12,,7,Houston,4,3,7,3,2.5,2
+Big 12,,8,UCF,3,3,5,4,3.0,3
+Big 12,,9,Arizona State,3,3,5,4,3.0,3
+Big 12,,10,West Virginia,2,4,5,4,4.0,3
+Big 12,,11,Iowa State,2,4,4,5,4.0,3
+Big 12,,12,Cincinnati,2,4,5,4,4.0,3
+Big 12,,13,TCU,2,4,4,5,4.0,3
+Big 12,,14,Colorado,2,5,4,6,4.5,2
+Big 12,,15,Kansas State,1,5,4,5,5.0,3
+Big 12,,16,Kansas,1,5,3,6,5.0,3
+Big Ten,,1,UCLA,7,0,10,0,0.0,2
+Big Ten,,2,Indiana,5,1,8,1,1.5,3
+Big Ten,,3,Oregon,4,2,6,3,2.5,3
+Big Ten,,4,Iowa,4,2,7,2,2.5,3
+Big Ten,,5,Wisconsin,4,2,6,3,2.5,3
+Big Ten,,6,USC,4,2,7,2,2.5,3
+Big Ten,,7,Ohio State,4,2,6,3,2.5,3
+Big Ten,,8,Illinois,4,3,6,4,3.0,2
+Big Ten,,9,Northwestern,3,3,6,3,3.5,3
+Big Ten,,10,Minnesota,3,3,5,4,3.5,3
+Big Ten,,11,Michigan,2,4,5,4,4.5,3
+Big Ten,,12,Penn State,2,4,5,4,4.5,3
+Big Ten,,13,Washington,2,4,5,4,4.5,3
+Big Ten,,14,Nebraska,2,4,5,4,4.5,3
+Big Ten,,15,Purdue,2,4,3,6,4.5,3
+Big Ten,,16,Rutgers,1,5,2,7,5.5,3
+Big Ten,,17,Michigan State,1,5,3,6,5.5,3
+Big Ten,,18,Maryland,1,5,3,6,5.5,3
+Conference USA,,1,Liberty,5,0,8,1,0.0,3
+Conference USA,,2,Jacksonville State,5,0,7,2,0.0,3
+Conference USA,,3,Middle Tennessee,3,2,5,4,2.0,3
+Conference USA,,4,Florida International,2,3,4,5,3.0,3
+Conference USA,,5,Delaware,2,3,4,5,3.0,3
+Conference USA,,6,New Mexico State,2,3,3,6,3.0,3
+Conference USA,,7,Kennesaw State,2,3,3,6,3.0,3
+Conference USA,,8,Western Kentucky,2,3,3,6,3.0,3
+Conference USA,,9,Missouri State,2,3,3,6,3.0,3
+Conference USA,,10,Sam Houston,0,5,1,8,5.0,3
+Mid-American,,1,Ohio,5,1,7,3,0.0,2
+Mid-American,,2,Toledo,5,1,8,2,0.0,2
+Mid-American,,3,Western Michigan,5,1,7,3,0.0,2
+Mid-American,,4,Buffalo,5,1,7,3,0.0,2
+Mid-American,,5,Miami (OH),4,2,6,4,1.0,2
+Mid-American,,6,Central Michigan,3,3,5,5,2.0,2
+Mid-American,,7,Bowling Green,3,3,3,7,2.0,2
+Mid-American,,8,Eastern Michigan,3,3,4,6,2.0,2
+Mid-American,,9,Kent State,2,4,3,7,3.0,2
+Mid-American,,10,Massachusetts,2,4,5,5,3.0,2
+Mid-American,,11,Ball State,2,4,3,7,3.0,2
+Mid-American,,12,Sacramento State,1,7,2,9,5.0,0
+Mid-American,,13,Akron,0,6,1,9,5.0,2
+Mountain West,,1,New Mexico,5,0,8,1,0.0,3
+Mountain West,,2,Wyoming,5,1,6,3,0.5,2
+Mountain West,,3,North Dakota State,4,2,7,2,1.5,3
+Mountain West,,4,Air Force,3,2,7,2,2.0,3
+Mountain West,,5,UNLV,3,2,5,4,2.0,3
+Mountain West,,6,San José State,3,3,5,5,2.5,3
+Mountain West,,7,Nevada,2,3,3,6,3.0,3
+Mountain West,,8,Hawai'i,2,4,3,6,3.5,2
+Mountain West,,9,UTEP,0,5,1,8,5.0,3
+Mountain West,,10,Northern Illinois,0,5,0,9,5.0,3
+Pac-12,,1,Boise State,5,0,8,1,0.0,2
+Pac-12,,2,Texas State,3,2,5,4,2.0,2
+Pac-12,,3,Oregon State,3,2,5,4,2.0,2
+Pac-12,,4,San Diego State,3,2,4,5,2.0,2
+Pac-12,,5,Utah State,3,2,4,5,2.0,2
+Pac-12,,6,Fresno State,2,3,5,4,3.0,2
+Pac-12,,7,Colorado State,1,4,3,6,4.0,2
+Pac-12,,8,Washington State,0,5,1,8,5.0,2
+SEC,,1,Georgia,6,1,8,1,0.0,2
+SEC,,2,Alabama,5,2,7,2,1.0,2
+SEC,,3,Kentucky,5,2,7,2,1.0,2
+SEC,,4,Texas,4,2,7,2,1.5,3
+SEC,,5,Tennessee,4,2,7,2,1.5,3
+SEC,,6,Ole Miss,4,3,6,3,2.0,2
+SEC,,7,South Carolina,4,3,6,3,2.0,2
+SEC,,8,LSU,3,3,6,3,2.5,3
+SEC,,9,Oklahoma,3,3,5,4,2.5,3
+SEC,,10,Missouri,3,3,6,3,2.5,3
+SEC,,11,Florida,3,4,5,4,3.0,2
+SEC,,12,Auburn,3,4,5,4,3.0,2
+SEC,,13,Mississippi State,2,5,4,5,4.0,2
+SEC,,14,Texas A&M,1,5,4,5,4.5,3
+SEC,,15,Arkansas,1,5,3,6,4.5,3
+SEC,,16,Vanderbilt,1,5,4,5,4.5,3
+Sun Belt,East,1,Georgia Southern,4,1,5,4,0.0,3
+Sun Belt,East,2,James Madison,5,2,8,2,0.0,1
+Sun Belt,East,3,Coastal Carolina,2,3,3,6,2.0,3
+Sun Belt,East,4,Georgia State,2,3,5,4,2.0,3
+Sun Belt,East,5,App State,2,3,5,4,2.0,3
+Sun Belt,East,6,Marshall,2,3,5,4,2.0,3
+Sun Belt,East,7,Old Dominion,2,5,3,7,3.0,1
+Sun Belt,West,1,Louisiana Tech,5,0,7,2,0.0,3
+Sun Belt,West,2,Louisiana,4,2,7,3,1.5,2
+Sun Belt,West,3,Troy,2,3,4,5,3.0,3
+Sun Belt,West,4,South Alabama,2,3,4,5,3.0,3
+Sun Belt,West,5,Arkansas State,2,3,4,5,3.0,3
+Sun Belt,West,6,Southern Miss,2,3,3,6,3.0,3
+Sun Belt,West,7,UL Monroe,2,4,2,8,3.5,2
